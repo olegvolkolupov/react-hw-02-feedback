@@ -1,0 +1,47 @@
+.goodTitle {
+  margin-right: 5px;
+  color: green;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.neutralTitle {
+  margin-right: 5px;
+  color: grey;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.badTitle {
+  margin-right: 5px;
+  color: red;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.totalTitle {
+  margin-right: 5px;
+  color: darkslategrey;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.numbers {
+  padding: 3px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: slategrey;
+  border: 1px solid darkcyan;
+  border-radius: 5px;
+}
+
+.totalNumbers {
+  padding: 3px;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+  border: 1px solid darkblue;
+  border-radius: 5px;
+}
